@@ -1,0 +1,14 @@
+Post Lab Assignment:
+1. What is the relationship between tic-tac-toe and magic square?
+If you consider a 3x3 magic square, where each cell holds a number such that all rows,
+columns, and diagonals add up to the same magic number (usually 15), you can overlay a 
+tic-tac-toe grid on top. Interestingly, a winning move in tic-tac-toe often corresponds to
+filling in squares that sum up to the magic number.
+
+
+2. What is a magic square of order n?
+A magic square of order n is an n x n grid where each cell contains a different positive 
+integer from 1 to n^2, and the sum of the numbers in each row, column, and diagonal is the same, 
+known as the magic constant. This constant can be calculated as:
+Magic constant = n * (n^2 + 1) / 2
+So, for a 3x3 magic square, the magic constant is 15

@@ -1,0 +1,12 @@
+1. What is the easiest trick to win Tic Tac Toe?
+The easiest trick to win Tic Tac Toe is to take the center square in your first move. If the center is not available, go for a corner.
+This initial strategy creates multiple winning paths and puts you in a favorable position.
+2. What is the algorithm to follow to win a 5*5 Tic Tac Toe?
+5x5 Tic Tac Toe adds complexity, but a winning algorithm involves similarity.A good stratergy is to prioritize the center and corners,
+similar to a 3x3 game .also always prioritize blocking your opponents winning oppourtunities.
+3. Is there a way to never lose at Tic-Tac-Toe?
+Whilie a perfect game of Tic-Tac-Toe ends in a draw with optimal play,a stratergy known as "forking" can make it challenging for you opponent to win.
+This involves creating opportunities for two potential winning moves on the next turn,forcing your opponebt to choose which one to block while leaving the other open.
+4. What can tic-tac-toe help you with?
+Tic-Tac-Toe enhances logical reasoning and strategic planning.Players develop the ability to recognize patterns and anticipate opponent moves.
+Playing on the grid fosters understanding of spatial relationships and planning ahead.
